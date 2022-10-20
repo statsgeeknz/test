@@ -20,3 +20,5 @@ Language: en-US
 LazyData: true
 RoxygenNote: 7.1.1
 VignetteBuilder: knitr
+URL: https://github.com/statsgeeknz/test
+BugReports: https://github.com/statsgeeknz/test/issues
